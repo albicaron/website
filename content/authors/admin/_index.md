@@ -1,37 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alberto Caron
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Statistics & Machine Learning
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University College London
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Alberto Caron, second-year PhD Student in Statistics & Machine Learning at the [Department of Statistical Science, University College London](https://www.ucl.ac.uk/statistics/)
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bayesian Nonparametrics
+- Causal Inference
+- Machine Learning
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistics & Machine Learning 
+    institution: University College London
+    year: 2019 - present
+  - course: MSc in Statistics & Econometrics
+    institution: Bocconi University
+    year: 2015 - 2017
+  - course: BSc in Economics
+    institution: Bocconi University
+    year: 2012 - 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "mailto:alberto.caron.19@ucl.ac.uk"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/albicaron
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Alberto_Caron
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/AlbiCaron
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +61,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,6 +70,19 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a second-year PhD Student in Statistics & Machine Learning at the [Department of Statistical Science, University College London](https://www.ucl.ac.uk/statistics/), under the supervision of [Ioanna Manolopoulou](http://www.homepages.ucl.ac.uk/~ucakima/) and [Gianluca Baio](http://www.statistica.it/gianluca/) (intake: September 2019). Previously, I worked as researcher and consultant at the [The Bartlett School of Environment, Energy and Resources, UCL](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources). I graduated with a Master of Science in Econometrics in 2017 and with a Bachelor of Science in Economics in 2015, both from [Bocconi University](https://www.unibocconi.eu/) (Milan, Italy).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research mainly involves combining the two fields of Machine Learning and Causal Inference, with particular focus on Bayesian Nonparametric methods. 
+
+I am currently working on methodology and extensions of Bayesian Tree Ensembles learning algorithms for inferring and predicting Individualized Treatment Effects (ITE), and for policy learning. Estimation of the effects of an intervention at an individual level is of interest in many disciplines (personalized marketing, precision medicine, socio-economic policy design/evaluation, etc.), and is crucial to learn heterogeneous response, in order to design optimal policies.
+
+## Consultancy Projects
+I worked on a few research/consultancy projects commissioned by the [UK governmental Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy), performing statistical and econometric evaluation of environmental/energy policies. I have worked (or I am currently working) on a number of consultancy projects involving statistical analysis and App development for customized data analytics (mainly through [R Shiny](https://shiny.rstudio.com/gallery/)).
+
+## Teaching
+I am (or I have been) serving as a Teaching Assistant for the following courses at UCL:
+- STAT0001: Economics II
+- STAT0006: Linear Models
+- STAT0007: Stochastic Processes
+
+
