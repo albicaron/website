@@ -3,11 +3,11 @@
 
 title: "Contributed Discussion of “Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects”"
 authors: ["Harrison Zhu", "Xing Liu", "Alberto Caron", "Ioanna Manolopoulou", "Seth Flaxman", "Francois-Xavier Briol"]
-date: 2020-11-01T12:37:52+01:00
+date: 2020-09-15T12:37:52+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-11-01T00:56:28+01:00
+publishDate: 2020-09-15T12:37:52+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
