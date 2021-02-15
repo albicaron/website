@@ -5,6 +5,8 @@ During my academic studies and work experience I made extensive use of R and Pyt
 I employ R Shiny for building App for data analytics purposes. Get a glimpse of what Shiny can do by having a peek at [R Shiny Gallery](https://shiny.rstudio.com/gallery/).
 
 ### **R Packages**
+- [`SparseBCF`](https://github.com/albicaron/SparseBCF): implements Sparse Bayesian Causal Forests [(Caron et. al., 2021)](https://arxiv.org/pdf/2102.06573.pdf).
+
 - [`pbcf`](https://github.com/albicaron/pbcf): implements Probit version of Bayesian Causal Forest [(Hahn et. al., 2017)](https://arxiv.org/pdf/1706.09523.pdf). Based on code by [Starling et. al. (2019)](https://arxiv.org/pdf/1905.09405.pdf).
 
 
