@@ -10,7 +10,7 @@ role: PhD Candidate in Statistics & Machine Learning
 
 # Organizations/Affiliations
 organizations:
-- name: University College London
+- name: University College London & The Alan Turing Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am a second-year PhD Student in Statistics & Machine Learning at the [Department of Statistical Science, University College London](https://www.ucl.ac.uk/statistics/), under the supervision of [Ioanna Manolopoulou](http://www.homepages.ucl.ac.uk/~ucakima/) and [Gianluca Baio](http://www.statistica.it/gianluca/) (intake: September 2019). Previously, I worked as researcher and consultant at the [The Bartlett School of Environment, Energy and Resources, UCL](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources). I graduated with a Master of Science in Econometrics in 2017 and with a Bachelor of Science in Economics in 2015, both from [Bocconi University](https://www.unibocconi.eu/) (Milan, Italy).
+I am a third-year PhD Student in Statistics & Machine Learning at the [Department of Statistical Science, University College London](https://www.ucl.ac.uk/statistics/) and [The Alan Turing Institute](https://www.turing.ac.uk/people/enrichment-students/alberto-caron), under the supervision of [Ioanna Manolopoulou](http://www.homepages.ucl.ac.uk/~ucakima/) and [Gianluca Baio](http://www.statistica.it/gianluca/) (intake: September 2019). Previously, I worked as researcher and consultant at the [The Bartlett School of Environment, Energy and Resources, UCL](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources). I graduated with a Master of Science in Econometrics in 2017 and with a Bachelor of Science in Economics in 2015, both from [Bocconi University](https://www.unibocconi.eu/) (Milan, Italy).
 
 My research mainly involves combining the two fields of Machine Learning and Causal Inference, with particular focus on Bayesian Nonparametric methods. 
 
