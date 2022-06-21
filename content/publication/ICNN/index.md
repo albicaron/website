@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Counterfactual Learning with Multioutput Deep Kernels"
+title: "Interpretable Deep Causal Learning for Moderation Effects"
 authors: ["Alberto Caron", "Gianluca Baio", "Ioanna Manolopoulou"]
-date: 2022-06-15T12:03:42+01:00
+date: 2022-05-21T12:03:42+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-06-15T12:03:42+01:00
+publishDate: 2022-05-21T12:03:42+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Coming soon"
+abstract: "In this extended abstract paper, we address the problem of interpretability and targeted regularization in causal machine learning models. In particular, we focus on the problem of estimating individual causal/treatment effects under observed confounders, which can be controlled for and moderate the effect of the treatment on the outcome of interest. Black-box ML models adjusted for the causal setting perform generally well in this task, but they lack interpretable output identifying the main drivers of treatment heterogeneity and their functional relationship. We propose a novel deep counterfactual learning architecture for estimating individual treatment effects that can simultaneously: i) convey targeted regularization on, and produce quantify uncertainty around the quantity of interest (i.e., the Conditional Average Treatment Effect); ii) disentangle baseline prognostic and moderating effects of the covariates and output interpretable score functions describing their relationship with the outcome. Finally, we demonstrate the use of the method via a simple simulated experiment."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.researchgate.net/publication/361440387_Interpretable_Deep_Causal_Learning_for_Moderation_Effects
 url_code:
 url_dataset:
 url_poster:
